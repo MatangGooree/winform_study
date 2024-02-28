@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item>
+    <name>모하비</name>
+    <brand>기아</brand>
+    <price>4,300</price>
+    <number>k3940</number>
+    <count>6</count>
+    <store>2024-02-28 08:34</store>
+    <release>2024-02-27 05:06</release>
+    <serial>1</serial>
+  </item>
+  <item>
+    <name>K5</name>
+    <brand>기아</brand>
+    <price>2,000</price>
+    <number>k3941</number>
+    <count>45</count>
+    <store>2024-02-27 04:16</store>
+    <release>2024-02-27 03:57</release>
+    <serial>2</serial>
+  </item>
+  <item>
+    <name>팰리세이드</name>
+    <brand>현대</brand>
+    <price>5,500</price>
+    <number>h3928</number>
+    <count>44</count>
+    <store>2024-02-27 03:57</store>
+    <release>2024-02-22 09:31</release>
+    <serial>3</serial>
+  </item>
+  <item>
+    <name>소나타</name>
+    <brand>현대</brand>
+    <price>2,300</price>
+    <number>h3924</number>
+    <count>59</count>
+    <store>2024-02-27 04:16</store>
+    <release>2024-02-27 03:57</release>
+    <serial>4</serial>
+  </item>
+  <item>
+    <name>브롱코</name>
+    <brand>포드</brand>
+    <price>8,000</price>
+    <number>f5924</number>
+    <count>1</count>
+    <store>2024-02-26 03:03</store>
+    <release>2024-02-27 03:57</release>
+    <serial>5</serial>
+  </item>
+  <item>
+    <name>익스플로러</name>
+    <brand>포드</brand>
+    <price>6,000</price>
+    <number>f4924</number>
+    <count>44</count>
+    <store>2024-02-27 05:07</store>
+    <release>2024-02-27 05:07</release>
+    <serial>6</serial>
+  </item>
+  <item>
+    <name>S-Class</name>
+    <brand>벤츠</brand>
+    <price>20,000</price>
+    <number>b8924</number>
+    <count>32</count>
+    <store>2024-02-23 12:54</store>
+    <release>
+    </release>
+    <serial>7</serial>
+  </item>
+  <item>
+    <name>G-Class</name>
+    <brand>벤츠</brand>
+    <price>25,000</price>
+    <number>b4924</number>
+    <count>6</count>
+    <store>2024-02-23 12:54</store>
+    <release>
+    </release>
+    <serial>8</serial>
+  </item>
+</root>

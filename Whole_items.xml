@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item>
+    <name>모하비</name>
+    <brand>기아</brand>
+    <price>4500</price>
+    <number>k3940</number>    
+  </item>
+  <item>
+    <name>K5</name>
+    <brand>기아</brand>
+    <price>2000</price>
+    <number>k3941</number>
+  </item>
+  <item>
+    <name>팰리세이드</name>
+    <brand>현대</brand>
+    <price>5500</price>
+    <number>h3928</number>
+  </item>
+  <item>
+    <name>소나타</name>
+    <brand>현대</brand>
+    <price>2300</price>
+    <number>k3968</number>
+  </item>
+</root>
+  
